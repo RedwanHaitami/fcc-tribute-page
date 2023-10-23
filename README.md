@@ -12,7 +12,7 @@ John Steinbeck tribute page project created for freeCodeCamp Responsive Web Desi
 Check it out on [Github Web Pages]()<br>
 <br>
 
-## The objective 
+## The challenge
 
 Build a **Tribute Page** for a subject of your choosing, fictional or real.<br>
 <br>
