@@ -9,7 +9,7 @@ John Steinbeck tribute page project created for freeCodeCamp Responsive Web Desi
 
 ## Live Demo 
 
-Check it out on [Github Web Pages]()<br>
+Check it out on [Github Web Pages](https://redwanhaitami.github.io/fcc-tribute-page/)<br>
 <br>
 
 ## The challenge
