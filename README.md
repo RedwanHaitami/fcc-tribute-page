@@ -9,10 +9,10 @@ John Steinbeck tribute page project created for freeCodeCamp Responsive Web Desi
 
 ## Live Demo 
 
-Check it out on [Github Web Pages](https://redwanhaitami.github.io/fcc-tribute-page/)<br>
+Check it out on [Github Webpages](https://redwanhaitami.github.io/fcc-tribute-page/)<br>
 <br>
 
-## The challenge
+## Objective
 
 Build a **Tribute Page** for a subject of your choosing, fictional or real.<br>
 <br>
