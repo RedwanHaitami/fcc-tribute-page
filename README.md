@@ -18,7 +18,7 @@ Build a **Tribute Page** for a subject of your choosing, fictional or real.<br>
 <br>
 
 ### Requirements
-
+<br>
 - **User Story #1:** My tribute page should have an element with a corresponding `id="main"`, which contains all other elements.
   
 - **User Story #2:** I should see an element with a corresponding `id="title"`, which contains a string (i.e. text) that describes the subject of the tribute page.
